@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein App Portfolio</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="text_headline">Meine Nanodegree Apps!</string>
+    <string name="button_SpotifyStreamer">Spotify Streamer</string>
+    <string name="button_ScoresApp">Scores App</string>
+    <string name="button_LibraryApp">Bibliothek App</string>
+    <string name="button_BuildItBigger">Bau es größer</string>
+    <string name="button_XYZReader">XYZ Leser</string>
+    <string name="button_CapstoneMyOwnApp">Capstone: Meine eigene App</string>
+    <string name="text_toast">Diese Taste startet %s!</string>
+</resources>
